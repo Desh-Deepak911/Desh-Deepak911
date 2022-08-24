@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Desh-Deepak911
+- 👋 Hi, I’m Desh Deepak Singh
 - 👀 I’m interested in Data Science , Machine Learning and Web Development. I am a sucker for coding.
 - 🌱 I’m currently learning ML algorithms, Java Script and getting familiar to new projects.
 - 💞️ I’m looking to collaborate on Data Science and Web Development Projects. Hit me up at - 
